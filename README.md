@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Nish57/Weather-app/assets/105223628/9be86d37-3d39-4351-b4a8-ed18cac44d4a)
 
-Live Link : [https://nish57.github.io/Weather-app/]
+Live Link : [https://nish57.github.io/Mawesome-Weather-Forecast-Web-App/]
 
 Welcome to the Weather Web App! This application is designed to deliver accurate and real-time weather information based on your current location, ensuring you stay informed about the latest weather conditions.
 
